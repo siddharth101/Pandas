@@ -9,7 +9,7 @@ This repository contains jupyter notebooks on `Pandas` tutorials
 
 **Pandas_Intermediate** : Statistics with pandas, commonly used Pandas attributes
 
-**Pandas_data_manipulation_and_cleaning** : Data manipulation and cleaning in Pandas
+**Pandas_cleaning** : Data manipulation and cleaning in Pandas
 
 ***
 ***
