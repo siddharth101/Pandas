@@ -11,5 +11,7 @@ This repository contains jupyter notebooks on `Pandas` tutorials
 
 **Pandas_cleaning** : Data manipulation and cleaning in Pandas
 
+**Pandas_groupby** : Explore the use of groupby in Pandas
+
 ***
 ***
